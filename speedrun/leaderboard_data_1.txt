@@ -1,0 +1,621 @@
+Level ID: xd40x4p9, Category: Drift
+Player: xz9ddlr8, Time: 97.19
+
+Level ID: xd40x4p9, Category: Pro Muscle
+Player: j46wmql8, Time: 90
+
+Level ID: xd40x4p9, Category: GRID World Any%
+Player: e8e4k6x0, Time: 11608
+
+Level ID: xd40x4p9, Category: 100%
+Player: qxk09698, Time: 39443
+
+Level ID: xd40x4p9, Category: Pro Tuned
+Player: j26072lx, Time: 86.92
+
+Level ID: xd40x4p9, Category: All Tracks
+Player: 8l0o4zv8, Time: 877.25
+
+Level ID: xd40x4p9, Category: Le Mans
+Player: 8rp39z3j, Time: 3704
+
+Level ID: xd40x4p9, Category: Touring Car
+Player: j26072lx, Time: 92.13
+
+Level ID: xd40x4p9, Category: Open Wheel
+Player: jmpgggoj, Time: 79.42
+
+Level ID: xd40x4p9, Category: Free Class
+Player: j26072lx, Time: 75.32
+
+Level ID: xd0kxm19, Category: Drift
+Player: xz9ddlr8, Time: 79.11
+
+Level ID: xd0kxm19, Category: Pro Muscle
+Player: j26072lx, Time: 71.62
+
+Level ID: xd0kxm19, Category: GRID World Any%
+Player: e8e4k6x0, Time: 11608
+
+Level ID: xd0kxm19, Category: 100%
+Player: qxk09698, Time: 39443
+
+Level ID: xd0kxm19, Category: Pro Tuned
+Player: j26072lx, Time: 69.97
+
+Level ID: xd0kxm19, Category: All Tracks
+Player: 8l0o4zv8, Time: 877.25
+
+Level ID: xd0kxm19, Category: Le Mans
+Player: 8rp39z3j, Time: 3704
+
+Level ID: xd0kxm19, Category: Touring Car
+Player: j26072lx, Time: 72.74
+
+Level ID: xd0kxm19, Category: Open Wheel
+Player: jmpgggoj, Time: 64.08
+
+Level ID: xd0kxm19, Category: Free Class
+Player: xz9ddlr8, Time: 62.84
+
+Level ID: rw6q387d, Category: Drift
+Player: xz9ddlr8, Time: 54.94
+
+Level ID: rw6q387d, Category: Pro Muscle
+Player: qxk09698, Time: 53.97
+
+Level ID: rw6q387d, Category: GRID World Any%
+Player: e8e4k6x0, Time: 11608
+
+Level ID: rw6q387d, Category: 100%
+Player: qxk09698, Time: 39443
+
+Level ID: rw6q387d, Category: Pro Tuned
+Player: j26072lx, Time: 52.06
+
+Level ID: rw6q387d, Category: All Tracks
+Player: 8l0o4zv8, Time: 877.25
+
+Level ID: rw6q387d, Category: Le Mans
+Player: 8rp39z3j, Time: 3704
+
+Level ID: rw6q387d, Category: Touring Car
+Player: qxk09698, Time: 56.09
+
+Level ID: rw6q387d, Category: Open Wheel
+Player: jmpgggoj, Time: 47.14
+
+Level ID: rw6q387d, Category: Free Class
+Player: xz9ddlr8, Time: 44.43
+
+Level ID: n93qovew, Category: Drift
+Player: jmpgggoj, Time: 32.2
+
+Level ID: n93qovew, Category: Pro Muscle
+Player: jmpgggoj, Time: 29.71
+
+Level ID: n93qovew, Category: GRID World Any%
+Player: e8e4k6x0, Time: 11608
+
+Level ID: n93qovew, Category: 100%
+Player: qxk09698, Time: 39443
+
+Level ID: n93qovew, Category: Pro Tuned
+Player: j26072lx, Time: 28.82
+
+Level ID: n93qovew, Category: All Tracks
+Player: 8l0o4zv8, Time: 877.25
+
+Level ID: n93qovew, Category: Le Mans
+Player: 8rp39z3j, Time: 3704
+
+Level ID: n93qovew, Category: Touring Car
+Player: qxk09698, Time: 30.84
+
+Level ID: n93qovew, Category: Open Wheel
+Player: jmpgggoj, Time: 25.17
+
+Level ID: n93qovew, Category: Free Class
+Player: xz9ddlr8, Time: 25.08
+
+Level ID: z98rnyld, Category: Drift
+Player: jmpgggoj, Time: 79.19
+
+Level ID: z98rnyld, Category: Pro Muscle
+Player: qxk09698, Time: 73.39
+
+Level ID: z98rnyld, Category: GRID World Any%
+Player: e8e4k6x0, Time: 11608
+
+Level ID: z98rnyld, Category: 100%
+Player: qxk09698, Time: 39443
+
+Level ID: z98rnyld, Category: Pro Tuned
+Player: 0jm4lznj, Time: 72.73
+
+Level ID: z98rnyld, Category: All Tracks
+Player: 8l0o4zv8, Time: 877.25
+
+Level ID: z98rnyld, Category: Le Mans
+Player: 8rp39z3j, Time: 3704
+
+Level ID: z98rnyld, Category: Touring Car
+Player: jmpgggoj, Time: 75.34
+
+Level ID: z98rnyld, Category: Open Wheel
+Player: jmpgggoj, Time: 64.47
+
+Level ID: z98rnyld, Category: Free Class
+Player: xz9ddlr8, Time: 63.64
+
+Level ID: rdnon6vw, Category: Drift
+Player: xz9ddlr8, Time: 96.56
+
+Level ID: rdnon6vw, Category: Pro Muscle
+Player: qxk09698, Time: 91.58
+
+Level ID: rdnon6vw, Category: GRID World Any%
+Player: e8e4k6x0, Time: 11608
+
+Level ID: rdnon6vw, Category: 100%
+Player: qxk09698, Time: 39443
+
+Level ID: rdnon6vw, Category: Pro Tuned
+Player: 0jm4lznj, Time: 90.69
+
+Level ID: rdnon6vw, Category: All Tracks
+Player: 8l0o4zv8, Time: 877.25
+
+Level ID: rdnon6vw, Category: Le Mans
+Player: 8rp39z3j, Time: 3704
+
+Level ID: rdnon6vw, Category: Touring Car
+Player: jmpgggoj, Time: 95.38
+
+Level ID: rdnon6vw, Category: Open Wheel
+Player: jmpgggoj, Time: 80.48
+
+Level ID: rdnon6vw, Category: Free Class
+Player: jmpgggoj, Time: 78.34
+
+Level ID: ldy12nzd, Category: Drift
+Player: xz9ddlr8, Time: 54.86
+
+Level ID: ldy12nzd, Category: Pro Muscle
+Player: jngrv618, Time: 53.46
+
+Level ID: ldy12nzd, Category: GRID World Any%
+Player: e8e4k6x0, Time: 11608
+
+Level ID: ldy12nzd, Category: 100%
+Player: qxk09698, Time: 39443
+
+Level ID: ldy12nzd, Category: Pro Tuned
+Player: 0jm4lznj, Time: 53.63
+
+Level ID: ldy12nzd, Category: All Tracks
+Player: 8l0o4zv8, Time: 877.25
+
+Level ID: ldy12nzd, Category: Le Mans
+Player: 8rp39z3j, Time: 3704
+
+Level ID: ldy12nzd, Category: Touring Car
+Player: qxk09698, Time: 55.85
+
+Level ID: ldy12nzd, Category: Open Wheel
+Player: jmpgggoj, Time: 47.11
+
+Level ID: ldy12nzd, Category: Free Class
+Player: xz9ddlr8, Time: 44.69
+
+Level ID: gdrp2mzw, Category: Drift
+Player: jmpgggoj, Time: 31.26
+
+Level ID: gdrp2mzw, Category: Pro Muscle
+Player: qxk09698, Time: 29.86
+
+Level ID: gdrp2mzw, Category: GRID World Any%
+Player: e8e4k6x0, Time: 11608
+
+Level ID: gdrp2mzw, Category: 100%
+Player: qxk09698, Time: 39443
+
+Level ID: gdrp2mzw, Category: Pro Tuned
+Player: xz9ddlr8, Time: 29.49
+
+Level ID: gdrp2mzw, Category: All Tracks
+Player: 8l0o4zv8, Time: 877.25
+
+Level ID: gdrp2mzw, Category: Le Mans
+Player: 8rp39z3j, Time: 3704
+
+Level ID: gdrp2mzw, Category: Touring Car
+Player: jmpgggoj, Time: 30.39
+
+Level ID: gdrp2mzw, Category: Open Wheel
+Player: jmpgggoj, Time: 25.28
+
+Level ID: gdrp2mzw, Category: Free Class
+Player: jmpgggoj, Time: 24.71
+
+Level ID: nwlg3qr9, Category: Drift
+Player: xz9ddlr8, Time: 68.81
+
+Level ID: nwlg3qr9, Category: Pro Muscle
+Player: qxk09698, Time: 66.2
+
+Level ID: nwlg3qr9, Category: GRID World Any%
+Player: e8e4k6x0, Time: 11608
+
+Level ID: nwlg3qr9, Category: 100%
+Player: qxk09698, Time: 39443
+
+Level ID: nwlg3qr9, Category: Pro Tuned
+Player: j26072lx, Time: 65.1
+
+Level ID: nwlg3qr9, Category: All Tracks
+Player: 8l0o4zv8, Time: 877.25
+
+Level ID: nwlg3qr9, Category: Le Mans
+Player: 8rp39z3j, Time: 3704
+
+Level ID: nwlg3qr9, Category: Touring Car
+Player: qxk09698, Time: 68.65
+
+Level ID: nwlg3qr9, Category: Open Wheel
+Player: jmpgggoj, Time: 57.55
+
+Level ID: nwlg3qr9, Category: Free Class
+Player: jmpgggoj, Time: 55.74
+
+Level ID: ywe2lrrw, Category: Drift
+Player: xz9ddlr8, Time: 78.62
+
+Level ID: ywe2lrrw, Category: Pro Muscle
+Player: jmpgggoj, Time: 74.64
+
+Level ID: ywe2lrrw, Category: GRID World Any%
+Player: e8e4k6x0, Time: 11608
+
+Level ID: ywe2lrrw, Category: 100%
+Player: qxk09698, Time: 39443
+
+Level ID: ywe2lrrw, Category: Pro Tuned
+Player: 0jm4lznj, Time: 72.76
+
+Level ID: ywe2lrrw, Category: All Tracks
+Player: 8l0o4zv8, Time: 877.25
+
+Level ID: ywe2lrrw, Category: Le Mans
+Player: 8rp39z3j, Time: 3704
+
+Level ID: ywe2lrrw, Category: Touring Car
+Player: qxk09698, Time: 76.94
+
+Level ID: ywe2lrrw, Category: Open Wheel
+Player: jmpgggoj, Time: 64.9
+
+Level ID: ywe2lrrw, Category: Free Class
+Player: jmpgggoj, Time: 62.75
+
+Level ID: 69zpzyow, Category: Drift
+Player: xz9ddlr8, Time: 79.42
+
+Level ID: 69zpzyow, Category: Pro Muscle
+Player: qxk09698, Time: 74.6
+
+Level ID: 69zpzyow, Category: GRID World Any%
+Player: e8e4k6x0, Time: 11608
+
+Level ID: 69zpzyow, Category: 100%
+Player: qxk09698, Time: 39443
+
+Level ID: 69zpzyow, Category: Pro Tuned
+Player: qjollkej, Time: 75.54
+
+Level ID: 69zpzyow, Category: All Tracks
+Player: 8l0o4zv8, Time: 877.25
+
+Level ID: 69zpzyow, Category: Le Mans
+Player: 8rp39z3j, Time: 3704
+
+Level ID: 69zpzyow, Category: Touring Car
+Player: qxk09698, Time: 77.61
+
+Level ID: 69zpzyow, Category: Open Wheel
+Player: jmpgggoj, Time: 65.98
+
+Level ID: 69zpzyow, Category: Free Class
+Player: jmpgggoj, Time: 63.61
+
+Level ID: r9gyx0k9, Category: Drift
+Player: xz9ddlr8, Time: 27.51
+
+Level ID: r9gyx0k9, Category: Pro Muscle
+Player: qxk09698, Time: 25.97
+
+Level ID: r9gyx0k9, Category: GRID World Any%
+Player: e8e4k6x0, Time: 11608
+
+Level ID: r9gyx0k9, Category: 100%
+Player: qxk09698, Time: 39443
+
+Level ID: r9gyx0k9, Category: Pro Tuned
+Player: qjollkej, Time: 25.79
+
+Level ID: r9gyx0k9, Category: All Tracks
+Player: 8l0o4zv8, Time: 877.25
+
+Level ID: r9gyx0k9, Category: Le Mans
+Player: 8rp39z3j, Time: 3704
+
+Level ID: r9gyx0k9, Category: Touring Car
+Player: qxk09698, Time: 26.92
+
+Level ID: r9gyx0k9, Category: Open Wheel
+Player: jmpgggoj, Time: 21.75
+
+Level ID: r9gyx0k9, Category: Free Class
+Player: jmpgggoj, Time: 21.07
+
+Level ID: o9x1451d, Category: Drift
+Player: xz9ddlr8, Time: 27.19
+
+Level ID: o9x1451d, Category: Pro Muscle
+Player: xz9ddlr8, Time: 26.09
+
+Level ID: o9x1451d, Category: GRID World Any%
+Player: e8e4k6x0, Time: 11608
+
+Level ID: o9x1451d, Category: 100%
+Player: qxk09698, Time: 39443
+
+Level ID: o9x1451d, Category: Pro Tuned
+Player: qjollkej, Time: 25.74
+
+Level ID: o9x1451d, Category: All Tracks
+Player: 8l0o4zv8, Time: 877.25
+
+Level ID: o9x1451d, Category: Le Mans
+Player: 8rp39z3j, Time: 3704
+
+Level ID: o9x1451d, Category: Touring Car
+Player: qxk09698, Time: 26.71
+
+Level ID: o9x1451d, Category: Open Wheel
+Player: jmpgggoj, Time: 21.96
+
+Level ID: o9x1451d, Category: Free Class
+Player: jmpgggoj, Time: 21.58
+
+Level ID: 495k4oj9, Category: Drift
+Player: xz9ddlr8, Time: 69.07
+
+Level ID: 495k4oj9, Category: Pro Muscle
+Player: j46wmql8, Time: 66.14
+
+Level ID: 495k4oj9, Category: GRID World Any%
+Player: e8e4k6x0, Time: 11608
+
+Level ID: 495k4oj9, Category: 100%
+Player: qxk09698, Time: 39443
+
+Level ID: 495k4oj9, Category: Pro Tuned
+Player: qjollkej, Time: 65.91
+
+Level ID: 495k4oj9, Category: All Tracks
+Player: 8l0o4zv8, Time: 877.25
+
+Level ID: 495k4oj9, Category: Le Mans
+Player: 8rp39z3j, Time: 3704
+
+Level ID: 495k4oj9, Category: Touring Car
+Player: qxk09698, Time: 68.52
+
+Level ID: 495k4oj9, Category: Open Wheel
+
+Level ID: 495k4oj9, Category: Free Class
+
+Level ID: rdqzl21d, Category: Drift
+
+Level ID: rdqzl21d, Category: Pro Muscle
+
+Level ID: rdqzl21d, Category: GRID World Any%
+Player: e8e4k6x0, Time: 11608
+
+Level ID: rdqzl21d, Category: 100%
+Player: qxk09698, Time: 39443
+
+Level ID: rdqzl21d, Category: Pro Tuned
+Player: j26072lx, Time: 98.28
+
+Level ID: rdqzl21d, Category: All Tracks
+Player: 8l0o4zv8, Time: 877.25
+
+Level ID: rdqzl21d, Category: Le Mans
+Player: 8rp39z3j, Time: 3704
+
+Level ID: rdqzl21d, Category: Touring Car
+Player: qxk09698, Time: 108.57
+
+Level ID: rdqzl21d, Category: Open Wheel
+
+Level ID: rdqzl21d, Category: Free Class
+
+Level ID: 5d7y8kvd, Category: Drift
+
+Level ID: 5d7y8kvd, Category: Pro Muscle
+
+Level ID: 5d7y8kvd, Category: GRID World Any%
+Player: e8e4k6x0, Time: 11608
+
+Level ID: 5d7y8kvd, Category: 100%
+Player: qxk09698, Time: 39443
+
+Level ID: 5d7y8kvd, Category: Pro Tuned
+Player: j26072lx, Time: 74.04
+
+Level ID: 5d7y8kvd, Category: All Tracks
+Player: 8l0o4zv8, Time: 877.25
+
+Level ID: 5d7y8kvd, Category: Le Mans
+Player: 8rp39z3j, Time: 3704
+
+Level ID: 5d7y8kvd, Category: Touring Car
+Player: qxk09698, Time: 80.47
+
+Level ID: 5d7y8kvd, Category: Open Wheel
+
+Level ID: 5d7y8kvd, Category: Free Class
+
+Level ID: kwj7plzw, Category: Drift
+
+Level ID: kwj7plzw, Category: Pro Muscle
+
+Level ID: kwj7plzw, Category: GRID World Any%
+Player: e8e4k6x0, Time: 11608
+
+Level ID: kwj7plzw, Category: 100%
+Player: qxk09698, Time: 39443
+
+Level ID: kwj7plzw, Category: Pro Tuned
+Player: j26072lx, Time: 55.59
+
+Level ID: kwj7plzw, Category: All Tracks
+Player: 8l0o4zv8, Time: 877.25
+
+Level ID: kwj7plzw, Category: Le Mans
+Player: 8rp39z3j, Time: 3704
+
+Level ID: kwj7plzw, Category: Touring Car
+Player: j26072lx, Time: 57.89
+
+Level ID: kwj7plzw, Category: Open Wheel
+
+Level ID: kwj7plzw, Category: Free Class
+
+Level ID: owo7y1y9, Category: Drift
+
+Level ID: owo7y1y9, Category: Pro Muscle
+
+Level ID: owo7y1y9, Category: GRID World Any%
+Player: e8e4k6x0, Time: 11608
+
+Level ID: owo7y1y9, Category: 100%
+Player: qxk09698, Time: 39443
+
+Level ID: owo7y1y9, Category: Pro Tuned
+Player: xz9ddlr8, Time: 82.94
+
+Level ID: owo7y1y9, Category: All Tracks
+Player: 8l0o4zv8, Time: 877.25
+
+Level ID: owo7y1y9, Category: Le Mans
+Player: 8rp39z3j, Time: 3704
+
+Level ID: owo7y1y9, Category: Touring Car
+Player: qxk09698, Time: 80.34
+
+Level ID: owo7y1y9, Category: Open Wheel
+
+Level ID: owo7y1y9, Category: Free Class
+
+Level ID: xd1jxe6d, Category: Drift
+Player: xz9ddlr8, Time: 59.81
+
+Level ID: xd1jxe6d, Category: Pro Muscle
+
+Level ID: xd1jxe6d, Category: GRID World Any%
+Player: e8e4k6x0, Time: 11608
+
+Level ID: xd1jxe6d, Category: 100%
+Player: qxk09698, Time: 39443
+
+Level ID: xd1jxe6d, Category: Pro Tuned
+Player: xz9ddlr8, Time: 58.88
+
+Level ID: xd1jxe6d, Category: All Tracks
+Player: 8l0o4zv8, Time: 877.25
+
+Level ID: xd1jxe6d, Category: Le Mans
+Player: 8rp39z3j, Time: 3704
+
+Level ID: xd1jxe6d, Category: Touring Car
+Player: qxk09698, Time: 59.21
+
+Level ID: xd1jxe6d, Category: Open Wheel
+
+Level ID: xd1jxe6d, Category: Free Class
+
+Level ID: ewp7rmzw, Category: Drift
+
+Level ID: ewp7rmzw, Category: Pro Muscle
+
+Level ID: ewp7rmzw, Category: GRID World Any%
+Player: e8e4k6x0, Time: 11608
+
+Level ID: ewp7rmzw, Category: 100%
+
+Level ID: ewp7rmzw, Category: Pro Tuned
+
+Level ID: ewp7rmzw, Category: All Tracks
+Player: 8l0o4zv8, Time: 877.25
+
+Level ID: ewp7rmzw, Category: Le Mans
+
+Level ID: ewp7rmzw, Category: Touring Car
+
+Level ID: ewp7rmzw, Category: Open Wheel
+
+Level ID: ewp7rmzw, Category: Free Class
+
+Level ID: y9m58q1d, Category: Drift
+
+Level ID: y9m58q1d, Category: Pro Muscle
+
+Level ID: y9m58q1d, Category: GRID World Any%
+Player: e8e4k6x0, Time: 11608
+
+Level ID: y9m58q1d, Category: 100%
+Player: qxk09698, Time: 39443
+
+Level ID: y9m58q1d, Category: Pro Tuned
+
+Level ID: y9m58q1d, Category: All Tracks
+Player: 8l0o4zv8, Time: 877.25
+
+Level ID: y9m58q1d, Category: Le Mans
+Player: 8rp39z3j, Time: 3704
+
+Level ID: y9m58q1d, Category: Touring Car
+
+Level ID: y9m58q1d, Category: Open Wheel
+
+Level ID: y9m58q1d, Category: Free Class
+
+Level ID: 5wkkpzqw, Category: Drift
+
+Level ID: 5wkkpzqw, Category: Pro Muscle
+
+Level ID: 5wkkpzqw, Category: GRID World Any%
+Player: e8e4k6x0, Time: 11608
+
+Level ID: 5wkkpzqw, Category: 100%
+Player: qxk09698, Time: 39443
+
+Level ID: 5wkkpzqw, Category: Pro Tuned
+Player: j26072lx, Time: 48.26
+
+Level ID: 5wkkpzqw, Category: All Tracks
+Player: 8l0o4zv8, Time: 877.25
+
+Level ID: 5wkkpzqw, Category: Le Mans
+Player: 8rp39z3j, Time: 3704
+
+Level ID: 5wkkpzqw, Category: Touring Car
+Player: qxk09698, Time: 52.41
+
+Level ID: 5wkkpzqw, Category: Open Wheel
+
+Level ID: 5wkkpzqw, Category: Free Class
+
